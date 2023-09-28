@@ -1,16 +1,16 @@
 ### Hi there 👋 I am Victor 
 
+
 <!--
 **Victor-Kola/Victor-Kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About Me
+- Amazon Brand Manager for several years for a various brands - utilising data to gather insights and increase sales.
+- I have a degree in Civil Engineering and know all about engineering mathematics and statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on becoming a Data Engineer with AiCore so I can make better use of all this data I see and also branch out further into data engineer. 
+
+- 👯 I’m looking to collaborate on any and everything interesting.
+- 🤔 I’m looking for help with landing my first tech role. 
+- 💬 Ask me about e-commerce, amazon and business. 
+- 📫 How to reach me: email @ victor.kolawole@hotmail.com
