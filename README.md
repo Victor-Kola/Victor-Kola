@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Victor 
 
-
-<!--
-**Victor-Kola/Victor-Kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # About Me
 - Amazon Brand Manager for several years for a various brands - utilising data to gather insights and increase sales.
 - I have a degree in Civil Engineering and know all about engineering mathematics and statistics.
